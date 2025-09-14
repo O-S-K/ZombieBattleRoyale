@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f7aa894-b0a5-417b-9322-408e2e49b519" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/OSK.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/OSK/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/OSK/Resources/Configs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/OSK/Resources/Configs/ListSoundSO.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/OSK/Resources/Configs/ListSoundSO.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/OSK/Resources/Configs/ListViewSO.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/OSK/Resources/Configs/ListViewSO.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro.cginc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.json.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Prefabs/View.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Prefabs/View/DamagePopup.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Prefabs/View/DamagePopup.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Prefabs/View/DrawLine.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Prefabs/View/DrawLine.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Prefabs/View/HealthBarShrink.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Prefabs/View/HealthBarShrink.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Prefabs/View/HealthBarShrinkUI.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Prefabs/View/HealthBarShrinkUI.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Resources/Player.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Resources/Player/PlayerStats.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Resources/Player/PlayerStats.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Resources/Weapons.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Resources/Weapons/Projectile.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Resources/Weapons/Projectile/BulletRifleData.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Resources/Weapons/Projectile/BulletRifleData.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Resources/Weapons/Ranged.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Resources/Weapons/Ranged/Rifle.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Resources/Weapons/Ranged/Rifle/Assault_Rifle_5.56_Prototype (2).asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Resources/Weapons/Ranged/Rifle/Assault_Rifle_5.56_Prototype (2).asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Character/Module/Movement.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Character/Module/Movement/IMovePosition.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Character/Module/Movement/IMovePosition.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Character/Module/Movement/IMoveVelocity.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Character/Module/Movement/IMoveVelocity.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Character/Module/Movement/MovePositionDirect.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Character/Module/Movement/MovePositionDirect.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Character/Module/Movement/MovePositionPathfinding.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Character/Module/Movement/MovePositionPathfinding.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Character/Module/Movement/MoveTransformVelocity.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Character/Module/Movement/MoveTransformVelocity.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Character/Module/Movement/MoveVelocity.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Character/Module/Movement/MoveVelocity.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Character/Module/Movement/MoveWaypoints.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Character/Module/Movement/MoveWaypoints.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Character/Player/PlayerStats.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Character/Player/PlayerStats.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Character/Player/PlayerWeapon.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Character/Player/PlayerWeapon.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Health.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Health/DamagePopup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Health/DamagePopup.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Health/HealthBarShrinkTransform.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Health/HealthBarShrinkTransform.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Health/HealthBarShrinkUI.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Health/HealthBarShrinkUI.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Health/HealthController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Health/HealthController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Health/LifeController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Health/LifeController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Utils.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Utils/Cons.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Utils/Cons.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Inteface.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Inteface/FireMode.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Inteface/FireMode/AutoFire.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Inteface/FireMode/AutoFire.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Inteface/FireMode/BurstFire.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Inteface/FireMode/BurstFire.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Inteface/FireMode/IWeaponFireMode.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Inteface/FireMode/IWeaponFireMode.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Inteface/FireMode/SingleShot.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Inteface/FireMode/SingleShot.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Inteface/IDamageable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Inteface/IDamageable.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Inteface/IWeaponEquip.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Inteface/IWeaponEquip.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Inteface/Reload.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Inteface/Reload/CooldownReload.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Inteface/Reload/CooldownReload.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Inteface/Reload/IWeaponReload.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Inteface/Reload/IWeaponReload.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/MeleeWeapon.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/MeleeWeapon.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Range/AssaultRifle.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Range/AssaultRifle.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/RangedWeapon.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/RangedWeapon.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Hit.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Hit/HitEffectNone.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Hit/HitEffectNone.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Hit/IHitEffect.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Hit/IHitEffect.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Projectile.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Projectile/BulletProjectile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Projectile/BulletProjectile.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Projectile/Data.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Projectile/Data/BulletSO.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Projectile/Data/BulletSO.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Projectile/FireProjectile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Projectile/FireProjectile.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Projectile/IWeaponProjectile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Projectile/IWeaponProjectile.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Projectile/LaserProjectile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Projectile/LaserProjectile.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Projectile/MortarProjectile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Projectile/MortarProjectile.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Projectile/Projectile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Projectile/Projectile.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Projectile/RocketProjectile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Projectile/RocketProjectile.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ZombieBattleRoyale/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ZombieBattleRoyale/.idea/copilot.data.migration.agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ZombieBattleRoyale/.idea/copilot.data.migration.edit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ZombieBattleRoyale/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/AOT.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/AOT/Sirenix.Serialization.AOTGenerated.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/AOT/Sirenix.Serialization.AOTGenerated.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/AOT/link.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/AOT/link.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/Hidden.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/Hidden.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/AOTGenerationConfig.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/AOTGenerationConfig.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/ColorPaletteManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/ColorPaletteManager.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/GeneralDrawerConfig.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/GeneralDrawerConfig.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/GeneralDrawerConfig.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/GeneralDrawerConfig.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/ImportSettingsConfig.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/ImportSettingsConfig.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/InspectorConfig.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/InspectorConfig.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/InspectorConfig.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/InspectorConfig.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/OdinModuleConfig.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/OdinModuleConfig.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/OdinModuleConfig.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/OdinModuleConfig.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/TypeRegistryUserConfig.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/TypeRegistryUserConfig.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/TypeRegistryUserConfig.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/TypeRegistryUserConfig.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Resources.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Resources.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Resources/Sirenix.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Resources/Sirenix.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Resources/Sirenix/GlobalSerializationConfig.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Resources/Sirenix/GlobalSerializationConfig.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Resources/Sirenix/GlobalSerializationConfig.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Resources/Sirenix/GlobalSerializationConfig.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Mathematics.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Mathematics.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Mathematics/manifest.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Mathematics/manifest.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/API.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/API.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Changelog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Changelog.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Editor/CodeStage.AFPSCounter.Editor.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Editor/CodeStage.AFPSCounter.Editor.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Editor/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Editor/Scripts/AFPSCounterEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Editor/Scripts/AFPSCounterEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Editor/Scripts/AFPSRenderRecorderEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Editor/Scripts/AFPSRenderRecorderEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Editor/Scripts/EditorUIUtils.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Editor/Scripts/EditorUIUtils.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Examples.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Examples/APITester.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Examples/APITester.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Examples/CodeStage.AFPSCounter.Examples.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Examples/CodeStage.AFPSCounter.Examples.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Examples/ExampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Examples/ExampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Examples/Fonts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Examples/Fonts/VeraMono-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Examples/Fonts/VeraMono-Bold.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Examples/Fonts/VeraMono.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Examples/Fonts/VeraMono.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Examples/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Examples/Prefabs/VR Example.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Examples/Prefabs/VR Example.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Examples/Prefabs/World Space Example.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Examples/Prefabs/World Space Example.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Examples/VRExampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Examples/VRExampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Prefabs/Advanced FPS Counter.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Prefabs/Advanced FPS Counter.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Readme.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Readme.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/CodeStage.AFPSCounter.Runtime.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/CodeStage.AFPSCounter.Runtime.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/AFPSCounter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/AFPSCounter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/AFPSInputProxy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/AFPSInputProxy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/CountersData.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/CountersData/Abstract.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/CountersData/Abstract/BaseCounterData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/CountersData/Abstract/BaseCounterData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/CountersData/Abstract/StaticCounterData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/CountersData/Abstract/StaticCounterData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/CountersData/Abstract/UpdatebleCounterData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/CountersData/Abstract/UpdatebleCounterData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/CountersData/DeviceInfoCounterData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/CountersData/DeviceInfoCounterData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/CountersData/FPSCounterData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/CountersData/FPSCounterData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/CountersData/MemoryCounterData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/CountersData/MemoryCounterData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/Enums.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/Enums/FPSLevel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/Enums/FPSLevel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/Enums/OperationMode.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/Enums/OperationMode.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/Label.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/Label/DrawableLabel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/Label/DrawableLabel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/Label/LabelAnchor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/Label/LabelAnchor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/Label/LabelEffect.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/Label/LabelEffect.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/Utils.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/Utils/AFPSRenderRecorder.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/Utils/AFPSRenderRecorder.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/Utils/CachedNumbers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/Utils/CachedNumbers.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/Utils/UIUtils.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/Runtime/Scripts/Utils/UIUtils.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/AdvancedFPSCounter/package.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/ConsoleProDebug.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/ConsoleProDebug.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Editor Console Pro Documentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Editor Console Pro Documentation.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Editor/ConsolePro.Editor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Editor/ConsolePro.Editor.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/ConsoleProRemoteServer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/ConsoleProRemoteServer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/FastBitConverter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/FastBitConverter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/INetEventListener.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/INetEventListener.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NatPunchModule.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NatPunchModule.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetConstants.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetConstants.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetDataReader.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetDataReader.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetDataWriter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetDataWriter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetDebug.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetDebug.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetEndPoint.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetEndPoint.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetPacket.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetPacket.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetPacketPool.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetPacketPool.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetPeer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetPeer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetPeerCollection.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetPeerCollection.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetSerializer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetSerializer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetSocket.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetSocket.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetThread.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetThread.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetUtils.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NetUtils.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NtpSyncModule.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/NtpSyncModule.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/ReliableChannel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/ReliableChannel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/RemoteFix" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/RemoteFix.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/SequencedChannel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/SequencedChannel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/SimpleChannel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/ConsolePro/Remote/LiteNetLib/SimpleChannel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Attributes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Attributes/RegisterTabAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Attributes/RegisterTabAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/ComponentItem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/ComponentItem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Constants.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Constants.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Data.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Data/ComponentData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Data/ComponentData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Data/GlobalData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Data/GlobalData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Data/HierarchyStyleData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Data/HierarchyStyleData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Data/Types.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Data/Types/ComponentGroup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Data/Types/ComponentGroup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Data/Types/ComponentType.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Data/Types/ComponentType.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Data/Types/HierarchyStyle.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Data/Types/HierarchyStyle.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/GUI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/GUI/DrawerGroup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/GUI/DrawerGroup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/GUI/Drawers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/GUI/Drawers/EnumFlagToggleDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/GUI/Drawers/EnumFlagToggleDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/GUI/Drawers/ReorderableDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/GUI/Drawers/ReorderableDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/GUI/Drawers/SerializedGroupDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/GUI/Drawers/SerializedGroupDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/GUI/Drawers/SerializedPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/GUI/Drawers/SerializedPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/GUI/Drawers/SpaceDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/GUI/Drawers/SpaceDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/GUI/GUIDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/GUI/GUIDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Hierarchy.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Hierarchy/Drawers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Hierarchy/Drawers/BreadcrumbsDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Hierarchy/Drawers/BreadcrumbsDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Hierarchy/Drawers/StateDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Hierarchy/Drawers/StateDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Hierarchy/Drawers/StyleDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Hierarchy/Drawers/StyleDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Hierarchy/Drawers/ToggleDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Hierarchy/Drawers/ToggleDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Hierarchy/HierarchyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Hierarchy/HierarchyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Hierarchy/Info.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Hierarchy/Info/ComponentIconInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Hierarchy/Info/ComponentIconInfo.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Hierarchy/Info/HierarchyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Hierarchy/Info/HierarchyInfo.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Hierarchy/Info/TagLayerInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Hierarchy/Info/TagLayerInfo.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/HierarchyDecorator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/HierarchyDecorator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/HierarchyGUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/HierarchyGUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/HierarchyItem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/HierarchyItem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/HierarchyManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/HierarchyManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Interfaces.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Interfaces/IDrawable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Interfaces/IDrawable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Interfaces/IGroup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Interfaces/IGroup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Preferences.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Preferences/HierarchyDecoratorProvider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Preferences/HierarchyDecoratorProvider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Preferences/SettingsPreferences.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Preferences/SettingsPreferences.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Settings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Settings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/SettingsEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/SettingsEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Style.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Style.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Tabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Tabs/CategoryFilter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Tabs/CategoryFilter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Tabs/GeneralTab.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Tabs/GeneralTab.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Tabs/IconInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Tabs/IconInfo.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Tabs/IconTab.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Tabs/IconTab.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Tabs/SettingsTab.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Tabs/SettingsTab.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Tabs/StyleTab.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Tabs/StyleTab.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Util.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Util/AssetUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Util/AssetUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Util/GUIHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Util/GUIHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Util/ReflectionUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Util/ReflectionUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Util/SerializedPropertyUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Util/SerializedPropertyUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Wooshii.HierarchyDecorator.Editor.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Editor/Wooshii.HierarchyDecorator.Editor.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Wooshii.HierarchyDecorator.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Scripts/Wooshii.HierarchyDecorator.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Settings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/HierarchyDecorator/Settings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Sirenix.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Sirenix/Odin Inspector.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Sirenix/Odin Inspector/Config.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Sirenix/Odin Inspector/Config/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Sirenix/Odin Inspector/Config/Editor/AOTGenerationConfig.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Sirenix/Odin Inspector/Config/Editor/AOTGenerationConfig.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Sirenix/Odin Inspector/Config/Editor/ColorPaletteManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Sirenix/Odin Inspector/Config/Editor/ColorPaletteManager.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Sirenix/Odin Inspector/Config/Editor/GeneralDrawerConfig.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Sirenix/Odin Inspector/Config/Editor/GeneralDrawerConfig.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Sirenix/Odin Inspector/Config/Editor/ImportSettingsConfig.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Sirenix/Odin Inspector/Config/Editor/ImportSettingsConfig.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Sirenix/Odin Inspector/Config/Editor/InspectorConfig.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Sirenix/Odin Inspector/Config/Editor/InspectorConfig.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Sirenix/Odin Inspector/Config/Editor/OdinModuleConfig.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Sirenix/Odin Inspector/Config/Editor/OdinModuleConfig.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Sirenix/Odin Inspector/Config/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Sirenix/Odin Inspector/Config/Resources/Sirenix.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Sirenix/Odin Inspector/Config/Resources/Sirenix/GlobalSerializationConfig.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Sirenix/Odin Inspector/Config/Resources/Sirenix/GlobalSerializationConfig.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/SortingLayerMesh/MeshRendererInspector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/SortingLayerMesh/MeshRendererInspector.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/SortingLayerMesh/SortingLayerEditorUtilityInternal.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/SortingLayerMesh/SortingLayerEditorUtilityInternal.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Wingman.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Wingman/ReadMe.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Wingman/ReadMe.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Wingman/Settings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Wingman/Settings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Wingman/Wingman.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Wingman/Wingman.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Wingman/Wingman.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Wingman/Wingman.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Wingman/WingmanClipboard.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Wingman/WingmanClipboard.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Wingman/WingmanClipboardUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Wingman/WingmanClipboardUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Wingman/WingmanComponentCopy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Wingman/WingmanComponentCopy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Wingman/WingmanContainer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Wingman/WingmanContainer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Wingman/WingmanIcons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Wingman/WingmanIcons.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Wingman/WingmanPersistentData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Wingman/WingmanPersistentData.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Wingman/WingmanPersistentData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Wingman/WingmanPersistentData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/Manual.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/Manual.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFolders.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFolders.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFolders.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFolders.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFoldersCache.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFoldersCache.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFoldersData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFoldersData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFoldersIconEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFoldersIconEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFoldersLibs.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFoldersLibs.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFoldersMenu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFoldersMenu.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFoldersMenuItems.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFoldersMenuItems.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFoldersOutline.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFoldersOutline.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFoldersPalette.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFoldersPalette.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFoldersPaletteEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFoldersPaletteEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFoldersPaletteWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/VFoldersPaletteWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/vFolders Data.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/vFolders Data.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/vFolders Palette.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vFolders/vFolders Palette.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vTabs/Read me.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vTabs/Read me.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vTabs/VTabs.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vTabs/VTabs.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vTabs/VTabs.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vTabs/VTabs.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vTabs/VTabsAddTabWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vTabs/VTabsAddTabWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vTabs/VTabsCache.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vTabs/VTabsCache.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vTabs/VTabsGUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vTabs/VTabsGUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vTabs/VTabsLibs.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vTabs/VTabsLibs.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vTabs/VTabsMenu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vTabs/VTabsMenu.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vTabs/VTabsMenuItems.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/vTabs/VTabsMenuItems.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Project/Scenes/Test.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Project/Scenes/Test.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/CHANGELOG.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Gizmos.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Gizmos/d_CrowdData@64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Gizmos/d_CrowdData@64.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Gizmos/d_CrowdDiscomfort@64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Gizmos/d_CrowdDiscomfort@64.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Gizmos/d_CrowdGroup@64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Gizmos/d_CrowdGroup@64.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Gizmos/d_CrowdObstacle@64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Gizmos/d_CrowdObstacle@64.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Gizmos/d_CrowdPathing@64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Gizmos/d_CrowdPathing@64.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Gizmos/d_CrowdSurface2@64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Gizmos/d_CrowdSurface2@64.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Gizmos/d_CrowdSurface@64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Gizmos/d_CrowdSurface@64.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.ContinuumCrowds.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.ContinuumCrowds/Collections.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.ContinuumCrowds/Collections/CollectionChecks.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.ContinuumCrowds/Collections/CollectionChecks.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.ContinuumCrowds/Collections/Transform.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.ContinuumCrowds/Collections/Transform.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.ContinuumCrowds/Collections/UnsafeHeap.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.ContinuumCrowds/Collections/UnsafeHeap.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.ContinuumCrowds/CostWeights.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.ContinuumCrowds/CostWeights.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.ContinuumCrowds/CrowdFlow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.ContinuumCrowds/CrowdFlow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.ContinuumCrowds/CrowdWorld.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.ContinuumCrowds/CrowdWorld.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.ContinuumCrowds/Density.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.ContinuumCrowds/Density.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.ContinuumCrowds/ProjectDawn.ContinuumCrowds.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.ContinuumCrowds/ProjectDawn.ContinuumCrowds.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.ContinuumCrowds/Slope.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.ContinuumCrowds/Slope.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.ContinuumCrowds/Speed.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.ContinuumCrowds/Speed.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Editor/CostWeightDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Editor/CostWeightDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Editor/CrowdGizmosSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Editor/CrowdGizmosSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Editor/ProjectDawn.Navigation.Editor.asmref" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Editor/ProjectDawn.Navigation.Editor.asmref.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid.Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid.Editor/AgentCrowdPathingEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid.Editor/AgentCrowdPathingEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid.Editor/CrowdDataEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid.Editor/CrowdDataEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid.Editor/CrowdDiscomfortEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid.Editor/CrowdDiscomfortEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid.Editor/CrowdGroupEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid.Editor/CrowdGroupEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid.Editor/CrowdObstacleEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid.Editor/CrowdObstacleEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid.Editor/CrowdSurfaceEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid.Editor/CrowdSurfaceEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid.Editor/ProjectDawn.Navigation.Hybrid.Editor.asmref" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid.Editor/ProjectDawn.Navigation.Hybrid.Editor.asmref.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid/AgentCrowdPathingAuthoring.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid/AgentCrowdPathingAuthoring.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid/CrowdDiscomfortAuthoring.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid/CrowdDiscomfortAuthoring.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid/CrowdGroupAuthoring.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid/CrowdGroupAuthoring.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid/CrowdObstacleAuthoring.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid/CrowdObstacleAuthoring.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid/CrowdSurfaceAuthoring.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid/CrowdSurfaceAuthoring.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid/ProjectDawn.Navigation.Hybrid.asmref" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.Hybrid/ProjectDawn.Navigation.Hybrid.asmref.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/AgentCrowdPath.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/AgentCrowdPath.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/CrowdData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/CrowdData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/CrowdDiscomfort.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/CrowdDiscomfort.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/CrowdDisplacementSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/CrowdDisplacementSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/CrowdFlowSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/CrowdFlowSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/CrowdGoalSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/CrowdGoalSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/CrowdGroup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/CrowdGroup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/CrowdObstacle.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/CrowdObstacle.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/CrowdSteeringSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/CrowdSteeringSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/CrowdSurface.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/CrowdSurface.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/CrowdSurfaceSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/CrowdSurfaceSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/CrowdWorldSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/CrowdWorldSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/ProjectDawn.Navigation.asmref" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/ProjectDawn.Navigation/ProjectDawn.Navigation.asmref.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/README.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/SAMPLES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/SAMPLES.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/ArcherTower.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/ArcherTower/Archer Tower Blue.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/ArcherTower/Archer Tower Blue.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/ArcherTower/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/ArcherTower/Materials/MAT_ArcherTower.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/ArcherTower/Materials/MAT_ArcherTower.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/ArcherTower/Materials/MAT_ArcherTower_Var2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/ArcherTower/Materials/MAT_ArcherTower_Var2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/ArcherTower/Model.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/ArcherTower/Model/Arrow.mesh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/ArcherTower/Model/Arrow.mesh.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/ArcherTower/Model/MOD_ArcherTower.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/ArcherTower/Model/MOD_ArcherTower.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/ArcherTower/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/ArcherTower/Textures/TEX_ArcherTower_D.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/ArcherTower/Textures/TEX_ArcherTower_D.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/ArcherTower/Textures/TEX_ArcherTower_M.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/ArcherTower/Textures/TEX_ArcherTower_M.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/ArcherTower/Textures/TEX_ArcherTower_N.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/ArcherTower/Textures/TEX_ArcherTower_N.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Background.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Background.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Background_BaseMap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Background_BaseMap.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/BarracksTower.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/BarracksTower/Barracks Tower Blue.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/BarracksTower/Barracks Tower Blue.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/BarracksTower/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/BarracksTower/Materials/MAT_BarracksTower.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/BarracksTower/Materials/MAT_BarracksTower.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/BarracksTower/Materials/MAT_BarracksTower_Var2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/BarracksTower/Materials/MAT_BarracksTower_Var2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/BarracksTower/Model.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/BarracksTower/Model/MOD_BarracksTower.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/BarracksTower/Model/MOD_BarracksTower.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/BarracksTower/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/BarracksTower/Textures/TEX_BarracksTower_D.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/BarracksTower/Textures/TEX_BarracksTower_D.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/BarracksTower/Textures/TEX_BarracksTower_M.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/BarracksTower/Textures/TEX_BarracksTower_M.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/BarracksTower/Textures/TEX_BarracksTower_N.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/BarracksTower/Textures/TEX_BarracksTower_N.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Blob Shadow.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Blob Shadow/Blob Shadow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Blob Shadow/Blob Shadow.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Blob Shadow/Quad Blob Shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Blob Shadow/Quad Blob Shadow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Cliff.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Cliff/Cliff.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Cliff/Cliff.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Cliff/Cliff.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Cliff/Cliff.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Cliff/Cliff.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Cliff/Cliff.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Ghost.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Ghost.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Grid_BaseMap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Grid_BaseMap.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Ground.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Ground/Grid.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Ground/Grid.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Ground/Ground.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Ground/Ground.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Icons.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Icons/ArcherTower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Icons/ArcherTower.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Icons/BarracksTower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Icons/BarracksTower.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Icons/Gold.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Icons/Gold.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Logo.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Logo.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Logo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Paper.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Paper.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Ramp.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Ramp/Ramp.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Ramp/Ramp.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Ramp/Ramp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Ramp/Ramp.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Ramp/Ramp.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Ramp/Ramp.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Sticker.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Sticker.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Sticker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Sticker.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Warrior.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Warrior/Warrior.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Warrior/Warrior.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Warrior/WarriorLowPoly.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Art/Warrior/WarriorLowPoly.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Board Defense Crowd Data.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Board Defense Crowd Data.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Board Defense SubScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Board Defense SubScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Board Defense.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Board Defense.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Buildings.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Buildings/Archer Tower Red.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Buildings/Archer Tower Red.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Buildings/Barracks Tower Ghost.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Buildings/Barracks Tower Ghost.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Buildings/Barracks Tower Red.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Buildings/Barracks Tower Red.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Projectiles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Projectiles/Arrow.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Projectiles/Arrow.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Build.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Build/BuildActionBar.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Build/BuildActionBar.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Build/BuildConfirmation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Build/BuildConfirmation.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Build/BuildConfirmationSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Build/BuildConfirmationSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Build/BuilderAuthoring.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Build/BuilderAuthoring.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Build/BuilderSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Build/BuilderSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Metrics.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Metrics/AgentCountSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Metrics/AgentCountSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Metrics/TextAgentCount.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Metrics/TextAgentCount.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Metrics/TextPerformanceCounter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Metrics/TextPerformanceCounter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/ProjectDawn.Navigation.Sample.BoardDefense.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/ProjectDawn.Navigation.Sample.BoardDefense.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Projectile.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Projectile/ProjectileAuthoring.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Projectile/ProjectileAuthoring.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Projectile/ProjectileSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Projectile/ProjectileSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Projectile/ShotsProjectilesAuthoring.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Projectile/ShotsProjectilesAuthoring.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Projectile/ShotsProjectilesSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Projectile/ShotsProjectilesSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Renderer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Renderer/DrawStaticMeshRendererSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Renderer/DrawStaticMeshRendererSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Renderer/StaticMaterialAuthoring.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Renderer/StaticMaterialAuthoring.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Renderer/StaticMeshRendererAuthoring.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Renderer/StaticMeshRendererAuthoring.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Spawner.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Spawner/SpawnerAuthoring.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Spawner/SpawnerAuthoring.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Spawner/SpawnerSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Spawner/SpawnerSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Unit.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Unit/ExpireAuthoring.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Unit/ExpireAuthoring.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Unit/ExpireSystem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Runtime/Unit/ExpireSystem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Units.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Units/Group.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Units/Group.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Units/Plastic Blue.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Units/Plastic Blue.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Units/Plastic Green.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Units/Plastic Green.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Units/Warrior Blue.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Units/Warrior Blue.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Units/Warrior Green.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Board Defense/Units/Warrior Green.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Discomfort.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Discomfort.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Formation.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Formation.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Funnel.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Funnel.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Grid.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Grid/Box.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Grid/Box.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Group Exchange.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Group Exchange.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Lanes.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Lanes.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Old.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Old/Circle Target 1.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Old/Circle Target 1.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Old/New Continnum Crowds Data.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Old/New Continnum Crowds Data.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Old/New Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Old/New Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Prefabs/Agent.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Prefabs/Agent.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Prefabs/Target.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Prefabs/Target.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Sprites/Agent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Sprites/Agent.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Sprites/Box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Sprites/Box.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Sprites/XMark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Sprites/XMark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Vortex.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/Samples~/Scenarios Crowds/Vortex.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/com.projectdawn.navigation.crowds/package.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3ea01e77be99618395f448b16bd7cc2bd4248bd9e5d8474964b2d97f39c5d74/System.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/TheRoadToSanctuary-v1.0.1/New folder/Assets/Scripts/Bardent/Managers/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../2022.3.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.render-pipelines.universal/Editor/ShaderGraph/Targets/UniversalTarget.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/Character/Module/Movement/MovePositionDirect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/Character/Module/Movement/MovePositionPathfinding.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/Character/Module/Movement/MoveTransformVelocity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/Character/Module/Movement/MoveVelocity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/Character/Player/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/Character/Player/PlayerStats.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/Health/LifeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/LifeTime/LifeTimeModule.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/Utils/Cons.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Inteface/IDamageable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/MeleeWeapon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Range/AssaultRifle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/Range/LaserGun.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Base/RangedWeapon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Data/WeaponSO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Hit/HitEffectNone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Hit/IHitEffect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Projectile/FireProjectile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Project/Scripts/Weapons/Projectile/Projectile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.osk.osk-framework@3fb22a09ca/Runtime/Scripts/Core/MonoProcress/ILogic.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="32gixa7i9lyz8yW6iMFBevlAm6s" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CodeLensConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\Admin\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Admin\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\Admin\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="G:\Work\2022.3.12f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath G:\Work\Projects\Lean\ZombieBattleRoyale\ZombieBattleRoyale -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="G:\Work\Projects\Lean\ZombieBattleRoyale\ZombieBattleRoyale" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="G:\Work\2022.3.12f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath G:\Work\Projects\Lean\ZombieBattleRoyale\ZombieBattleRoyale -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="G:\Work\Projects\Lean\ZombieBattleRoyale\ZombieBattleRoyale" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f7aa894-b0a5-417b-9322-408e2e49b519" name="Changes" comment="" />
+      <created>1757848866349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757848866349</updated>
+      <workItem from="1757848869514" duration="1707000" />
+      <workItem from="1757852333404" duration="625000" />
+      <workItem from="1757852981011" duration="259000" />
+      <workItem from="1757853521983" duration="14147000" />
+      <workItem from="1757870025610" duration="1654000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

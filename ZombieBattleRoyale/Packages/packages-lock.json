@@ -7,20 +7,6 @@
       "dependencies": {},
       "hash": "fed9a73bfed474fbb1d1f3182e1d725b1b16042f"
     },
-    "com.osk.osk-framework": {
-      "version": "https://github.com/O-S-K/OSK-Framework.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "3fb22a09ca982c903bd4f02a47cd6847d756e72d"
-    },
-    "com.osk.uiparticle": {
-      "version": "https://github.com/O-S-K/OSK-UIParticle.git",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "de902ae7fe8642be215643645820ae69291e8334"
-    },
     "com.unity.burst": {
       "version": "1.8.24",
       "depth": 0,

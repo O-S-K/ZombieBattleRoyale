@@ -54,7 +54,7 @@ namespace ZombieBattleRoyale
             return distance >= range;
         }
  
-        public virtual void FixedTick(float fixedDeltaTime)
+        public virtual void FixedUpdate()
         {
             CheckLifetime();
         }

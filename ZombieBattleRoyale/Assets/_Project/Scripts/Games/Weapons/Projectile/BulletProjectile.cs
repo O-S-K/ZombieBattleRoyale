@@ -24,11 +24,10 @@ namespace ZombieBattleRoyale
          
         }
 
-        public override void FixedTick(float fixedDeltaTime)
+        public override void FixedUpdate()
         {
-            base.FixedTick(fixedDeltaTime);
+            base.FixedUpdate();
             moveVelocity.SetVelocity(direction);
-
         }
     }
 }
